@@ -1,3 +1,11 @@
+---
+title: RUNBOOK.md — .github
+tags: [runbook, operations]
+vault_link: runbooks/home-kinscoe-projects-public-.github.md
+source_path: /home/kinscoe/Projects/public/.github/RUNBOOK.md
+---
+
+> 📓 Indexed in the PKM knowledge vault at `runbooks/home-kinscoe-projects-public-.github.md` (symlink → this file).
 # RUNBOOK.md — .github
 
 ## Metadata
