@@ -42,8 +42,10 @@ owned by `kevinpinscoe` that do not provide their own files.
 This repository contains documentation only — no executable code or secrets.
 To report a security vulnerability, do **not** open a public issue. Use GitHub's
 **"Report a vulnerability"** button on the Security tab, or email
-[kevin.inscoe@gmail.com](mailto:kevin.inscoe@gmail.com). See
-[SECURITY.md](SECURITY.md) for the full policy.
+[kevin.inscoe@gmail.com](mailto:kevin.inscoe@gmail.com) — encrypted with the
+OpenPGP key `FEDA 8FCB A361 BCF2 1C5A  EE68 400D 8321 5F67 26D6` if the report
+contains an exploit or sensitive data. See [SECURITY.md](SECURITY.md) for the
+full policy, including the disclosure timeline and safe-harbor terms.
 
 ## Ownership and Support
 
